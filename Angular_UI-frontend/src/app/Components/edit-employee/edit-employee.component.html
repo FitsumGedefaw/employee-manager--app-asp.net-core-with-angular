@@ -1,0 +1,62 @@
+<div class="container">
+    <h2 class="w-50 mx-auto my-2">Edit Employee</h2>
+
+    <form #form="ngForm" method="post" (ngSubmit)="updateEmployee()" class="form-control mx-auto px-5 py-4 w-75">
+        <div class="mb-1 mt-1">
+            <label for="id" class="form-label">Id </label>
+            <input type="text" id="id" class="form-control" name="id" readonly [(ngModel)]="tempEmployeeDetail.id" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="name" class="form-label">Name </label>
+            <input type="text" id="name" class="form-control" name="name" [(ngModel)]="tempEmployeeDetail.name" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="father" class="form-label">Father </label>
+            <input type="text" id="father" class="form-control" name="father" [(ngModel)]="tempEmployeeDetail.father" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="email" class="form-label"> Email</label>
+            <input type="email" id="email" class="form-control" name="email" [(ngModel)]="tempEmployeeDetail.email" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="salary" class="form-label"> Salary</label>
+            <input type="number" id="salary" class="form-control" name="salary"
+                [(ngModel)]="tempEmployeeDetail.salary" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="sex" class="form-label">Sex </label>
+            <input type="text" id="sex" class="form-control" name="sex" [(ngModel)]="tempEmployeeDetail.sex" />
+        </div>
+
+        <div class="mb-1 mt-1">
+            <label for="department" class="form-label">Department </label>
+            <input type="text" id="department" class="form-control" name="department"
+                [(ngModel)]="tempEmployeeDetail.department" />
+        </div>
+
+
+        <div class="mb-1 mt-1">
+            <label for="password" class="form-label">Password</label>
+            <input [type]="changedOnShowPassword" id="password" class="form-control" name="password"
+                [(ngModel)]="tempEmployeeDetail.password" />
+            <div class="container p-2">
+                <!-- for check box -->
+                <input style="top:1em; height: 1em; width: 1em;" type="checkbox" (click)="myFunction()"> &nbsp;Show
+                Password
+            </div>
+        </div>
+
+        <span class="mx-5"></span>
+        <button type="submit" class="btn btn-warning  d-inline-block mx-5  px-4"> <i class="bi bi-bookmark-check"></i>
+            &nbsp; Update</button>
+        <span class="mx-5"></span>
+        <span class="mx-5"></span>
+        <button type="button" (click)="deleteemployee(tempEmployeeDetail.id)"
+            class="btn btn-danger d-inline-block mx-2 px-4 "> <i class="bi bi-trash3"></i> &nbsp; Delete</button>
+    </form>
+</div>

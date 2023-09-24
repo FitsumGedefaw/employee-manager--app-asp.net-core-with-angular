@@ -1,0 +1,305 @@
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.exe
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.deps.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.runtimeconfig.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.AssemblyReference.cache
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfoInputs.cache
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfo.cs
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CoreCompileInputs.cache
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\scopedcss\bundle\ASP_API.styles.css
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CopyComplete
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\refint\ASP_API.dll
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.genruntimeconfig.cache
+C:\Users\Dawit\Desktop\Asp.net 6 & Angular 14\Project\ASP_API\ASP_API\obj\Debug\net6.0\ref\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.exe
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.deps.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.runtimeconfig.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.AssemblyReference.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfoInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CoreCompileInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\scopedcss\bundle\ASP_API.styles.css
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CopyComplete
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\refint\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ASP_API.genruntimeconfig.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API\ASP_API\obj\Debug\net6.0\ref\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.exe
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.deps.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.runtimeconfig.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.AssemblyReference.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfoInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CoreCompileInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\scopedcss\bundle\ASP_API.styles.css
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CopyComplete
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\refint\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.genruntimeconfig.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14 ( demo for Jossy )\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ref\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.exe
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.deps.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.runtimeconfig.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.AssemblyReference.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfoInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CoreCompileInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\scopedcss\bundle\ASP_API.styles.css
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CopyComplete
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\refint\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.genruntimeconfig.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\ASP_API-backend\ASP_API\obj\Debug\net6.0\ref\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.exe
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.deps.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.runtimeconfig.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.AssemblyReference.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfoInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.AssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CoreCompileInputs.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\scopedcss\bundle\ASP_API.styles.css
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.csproj.CopyComplete
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\refint\ASP_API.dll
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.pdb
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ASP_API.genruntimeconfig.cache
+C:\Users\Dawit\Desktop\P\Angular and .net\Asp.net 6 & Angular 14\Project\CRUD with ASP.NET core 6 API and Angular 14\ASP_API-backend\ASP_API\obj\Debug\net6.0\ref\ASP_API.dll

@@ -1,0 +1,51 @@
+<!-- <div class="container w-100"> -->
+
+    <h3 class="w-50 mx-5 py-3"> Employes List </h3>
+
+    <p *ngIf="!empoyees || empoyees.length <= 0 ">No Employess found </p>
+
+    <div class=" w-75 p-2 mx-auto text-end">
+        <!-- <a class="btn btn-danger text" routerLink="employee/add"> -->
+        <a class="btn btn-danger text" routerLink="/add">
+
+            <i class="bi bi-plus-circle"></i> &nbsp; Add Employee
+        </a>
+    </div>
+
+    <table class="container table mx-auto">
+        <thead class="thead-dark text-light">
+            <tr *ngIf="empoyees && empoyees.length > 0">
+                <th scope="col">ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Father</th>
+                <th scope="col">Email</th>
+                <th scope="col">Salary</th>
+                <th scope="col">Sex</th>
+                <th scope="col">Password</th>
+                <th scope="col">Department</th>
+                <th scope="col"> </th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- @foreach (var obj in Model) -->
+            <!-- { -->
+            <tr *ngFor="let person of empoyees">
+                <td>{{ person.id }}</td>
+                <td>{{ person.name | titlecase }}</td>
+                <td>{{ person.father | titlecase }}</td>
+                <td>{{ person.email | lowercase }}</td>
+                <td>{{ person.salary | currency:'USD' }}</td>
+                <td>{{ person.sex | titlecase }}</td>
+                <!-- <td> {{ person.password |  }} </td> -->
+                <td> {{ "********"  }} </td>
+                <td> {{ person.department | titlecase }} </td>
+                <td>
+                    <a class="btn btn-primary px-3" [routerLink]="['/edit', person.id]">
+                        <i class="bi bi-view-list"></i> &nbsp;  View </a>
+                </td>
+            </tr>
+            <!-- } -->
+
+        </tbody>
+    </table>
+<!-- </div> -->
